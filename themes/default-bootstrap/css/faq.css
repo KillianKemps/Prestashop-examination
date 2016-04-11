@@ -1,0 +1,22 @@
+h1.faq {
+  font-size: 3em;
+}
+
+ul.faq {
+  color: rgb(0, 178, 172);
+  text-transform: uppercase;
+  list-style-type: initial;
+  border: 1px #ccc solid;
+  padding: 15px 25px;
+  margin-top: 10px;
+}
+
+button.faq {
+  border: medium none;
+  background-color: rgb(0, 178, 172);
+  color: white;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-family: "Raleway";
+  padding: 5px 10px;
+}
