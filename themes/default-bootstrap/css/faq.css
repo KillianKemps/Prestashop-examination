@@ -2,6 +2,10 @@ h1.faq {
   font-size: 3em;
 }
 
+h2.faq {
+  color: rgb(0, 178, 172);
+}
+
 ul.faq {
   color: rgb(0, 178, 172);
   text-transform: uppercase;
