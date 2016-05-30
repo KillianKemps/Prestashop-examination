@@ -11,7 +11,7 @@
     display: inline-block;
     float: right;
     font-size: 18px;
-    color: #686666;
+    color: white;
     padding: 6px 0 0 0; }
   #header .shopping_cart > a:first-child:hover:after {
     content: "\f0d8";
@@ -29,10 +29,10 @@
       width: 100%; } }
   .shopping_cart > a:first-child {
     padding: 7px 10px 14px 16px;
-    background: #333;
+    background: #009688;
     display: block;
     font-weight: bold;
-    color: #777777;
+    color: white;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
     overflow: hidden; }
     @media (min-width: 768px) and (max-width: 991px) {
